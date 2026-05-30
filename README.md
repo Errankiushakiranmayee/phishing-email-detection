@@ -9,12 +9,11 @@ A Machine Learning project built with Python and Scikit-Learn that preprocesses 
 * **Efficient Classification:** Powered by a optimized Logistic Regression model for highly accurate, production-speed classification.
 * **Performance Mapping:** Generates a visually mapped Confusion Matrix and precision-recall reports.
 
-## 📁 Repository Structure
-
 * 📁 **phishing-email-detection/**
     * 📁 **data/**
         * 📄 `email_dataset.csv` — Sourced raw email dataset
     * 📁 **src/**
         * 🐍 `main.py` — Core preprocessing and model pipeline
+    * 📊 `confusion_matrix.png` — Evaluated model performance chart
     * ℹ️ `README.md` — Project documentation and setup guide
-    * 📄 `requirements.txt` — Python environments dependencies
+    * 📄 `requirements.txt` — Python environment dependencies
